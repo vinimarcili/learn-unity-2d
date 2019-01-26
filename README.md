@@ -1,1 +1,1 @@
-# Jogos em 2D desenvolvidos para aprendizado.
+# Jogos em 2D
